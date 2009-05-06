@@ -98,6 +98,99 @@ $.switchboard = {
         }
     },
 
+    chainActions: function(actions) {
+        // loop through all actions. Every action
+        // gets linked to the next one (except for
+        // the last one of course ;-)).
+        $.each(actions, function(index, action) {
+            var nextIndex = index + 1;
+            var lastIndex = actions.length - 1;
+
+            if (index < lastIndex) {
+                action.next = actions[nextIndex];
+            }
+        });
+
+        // Now add the first action (and automatically
+        // add the next one on the fly)
+        $.switchboard._addSwitchBoardAction(actions[0]);
+
+    },
+
+    _addSwitchBoardAction: function(action) {
+        console.info('add SwitchBoard action', action);
+        /* EXAMPLE:
+        action = {
+            event:  'subFeatureMenuReady',
+            obj:    '#subFeatureMenu',
+            method: 'selmenu',
+            data:   ['selectByLabel', 'Manning River']
+            next:   //pointer to the next action
+        }
+        */
+        // Create an actionName that is unique, so we can safely
+        // remove the action later without the risk of removing
+        // another action with the same name
+        var actionName = 'customAction_' + action.event + '_' + action.obj + '_' + action.method;
+
+        // Add before and after hooks to the action we're about to
+        // add to SwitchBoard.
+        // Before: initialise the next action, so it is ready before
+        //         when the current action gets executed
+        // After:  clean up after ourselves and self-destruct to
+        //         prevent this action from happening again.
+        $.switchboard.action({
+            id: actionName,
+            before:
+            function(){
+                if (action.next) {
+                    console.log( action.event + ": before: add next action");
+
+                    // Call ourselves with the next action
+                    $.switchboard.addSwitchBoardAction(action.next)
+                }
+            },
+            after:
+            function(){
+                console.log( action.event + ": after: self-destruct");
+
+                // Remove ourselves
+                $.switchboard.remove(actionName);
+            }
+        });
+
+        // Add the listener to the event and create the action
+        $.switchboard.add({
+            action: actionName,
+            widget: {
+                obj: $(document),
+                notify: {
+                    event: action.event,
+                    setModel: function() {
+                        var data = action.data
+                        console.info(action.event + ' is ready, setting the following model: ' + data);
+                        return data;
+                    }
+                }
+            }
+        })
+        // Add the code that will be executed
+        .add({
+            action: actionName,
+            widget: {
+                obj: $(action.obj),
+                update: {
+                    methodName: action.method,
+                    methodParams: function(data) {
+                        return data;
+                    }
+                }
+            }
+        });
+        
+        return actionName;
+    },
+
     //private method
     // returns set of widgets params for some action name
     _getActionSet: function(name) {
