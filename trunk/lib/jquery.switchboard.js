@@ -1,7 +1,7 @@
 /*
  * jQuery widget controller @VERSION
  *
- * Copyright (c) 2008 Alexandre Djioev, Volker Mische
+ * Copyright (c) 2008-2009 Alexandre Djioev, Volker Mische, Roald de Wit
  * Dual licensed under the MIT (MIT-LICENSE.txt)
  * and GPL (GPL-LICENSE.txt) licenses.
  * 
