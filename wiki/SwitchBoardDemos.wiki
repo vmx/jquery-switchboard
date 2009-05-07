@@ -5,6 +5,16 @@
 Insert switchboard examples here
 
 
+
+= Application initialization process =
+
+* After all widgets has been initialized insert following string
+{{{
+$(document).ready(function() {
+    $(document).trigger("init");
+}
+}}}
+
 = Details =
 
 Add your content here.  Format your content with:
