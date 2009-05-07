@@ -8,9 +8,10 @@ Insert switchboard examples here
 
 = Application initialization process =
 
-* After all widgets has been initialized insert following string
+After all required widgets has been created insert the following string
 {{{
 $(document).ready(function() {
+    ...
     $(document).trigger("init");
 }
 }}}
@@ -55,6 +56,35 @@ $(document).ready(function() {
                 methodName: "proxy",
                 methodParams: function() {
                     return ["getComapnyList"];
+                }
+            }
+        }
+    })
+    //triggered by proxy event="newProductList"
+    .add({
+        action: 'newProductList',
+        widget: {
+            id: "proxy",
+            obj: $("body"),
+            notify: {
+                event: "newProductList",
+                setModel: function(data) {
+                    return data;
+                }
+            }
+        }
+    })
+    //triggered by wfs when themeList is recieved
+    //will populate jDropDownMenu with values - $("#productMenu").jDropDownMenu(productMenu.list)
+    .add({
+        action: 'newProductList',
+        widget: {
+            id: "productMenu",
+            obj: $("#productMenu"),
+            update: {
+                methodName: "jDropDownMenu",
+                methodParams: function(themeList) {
+                    return ["setup", productMenu.list];
                 }
             }
         }
