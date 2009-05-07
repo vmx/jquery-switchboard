@@ -15,6 +15,56 @@ $(document).ready(function() {
 }
 }}}
 
+Here is an example for init switchboard chain:
+{{{
+$(document).ready(function() {
+    //called by document.trigger("init");
+    $.switchboard.add({
+        action: 'init',
+        widget: {
+            id: "document",
+            obj: $(document),
+            notify: {
+                event: "init"
+            }
+        }
+    })
+    //request product list from a proxy,
+    //proxy should trigger "newProductList":  trigger("newProductList", productList) on complete
+    .add({
+        action: 'init',
+        widget: {
+            id: "proxy",
+            obj: $("body"),
+            update: {
+                methodName: "proxy",
+                methodParams: function() {
+                    return ["getProxyList"];
+                }
+            }
+        }
+    })
+    //request companyList from proxy,
+    //proxy should  trigger "newCompanyList", trigger("newCompanyList", companyList) on complete
+    .add({
+        action: 'init',
+        widget: {
+            id: "proxy",
+            obj: $("body"),
+            update: {
+                methodName: "proxy",
+                methodParams: function() {
+                    return ["getComapnyList"];
+                }
+            }
+        }
+    });
+}); //jQuery
+
+}}}
+
+
+
 = Details =
 
 Add your content here.  Format your content with:
