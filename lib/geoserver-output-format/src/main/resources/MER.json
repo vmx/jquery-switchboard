@@ -1,0 +1,5156 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ebe",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ebd",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ebc",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ebb",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eba",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eb9",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eb8",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eb7",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eb6",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eb5",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eb4",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eb3",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eb2",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eb1",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eb0",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eaf",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eae",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ead",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eac",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eab",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7eaa",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ea9",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ea8",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9C_Chlorophyll a",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ea7",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ea6",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ea5",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ea4",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ea3",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ea2",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ea1",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ea0",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e9f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e9e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e9d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e9c",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e9b",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e9a",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e99",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e98",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e97",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e96",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e95",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e94",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e93",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e92",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e91",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9C_Macroalgae",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e90",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e8f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e8e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e8d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e8c",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e8b",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e8a",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e89",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e88",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e87",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e86",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e85",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "1",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e84",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e83",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e82",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e81",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e80",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e7f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e7e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e7d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e7c",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e7b",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "1",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e7a",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9C_Seagrass",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "1",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e79",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e78",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e77",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e76",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e75",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e74",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e73",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e72",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e71",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e70",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e6f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e6e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "1",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e6d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "1",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e6c",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e6b",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e6a",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e69",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e68",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e67",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e66",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e65",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e64",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e63",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9C_Mangrove",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "1",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e62",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9C_Fish",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e61",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e60",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e5f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e5e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e5d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e5c",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e5b",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e5a",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e59",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e58",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e57",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e56",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e55",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e54",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e53",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e52",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e51",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e50",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e4f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e4e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e4d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "1",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e4c",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9C_Fish",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "1",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e4b",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e4a",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e49",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e48",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e47",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e46",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e45",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e44",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e43",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "2",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e42",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e41",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e40",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "1",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e3f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "1",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e3e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e3d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e3c",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e3b",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e3a",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e39",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e38",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e37",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e36",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "condition"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e35",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": null,
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e34",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e33",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e32",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e31",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e30",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e2f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e2e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e2d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e2c",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e2b",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e2a",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e29",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e28",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e27",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e26",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e25",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e24",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e23",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e22",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e21",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e20",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e1f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9P_Cleared land",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e1e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": null,
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e1d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e1c",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e1b",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e1a",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e19",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e18",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e17",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e16",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e15",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e14",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e13",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e12",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e11",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e10",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e0f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e0e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e0d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e0c",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e0b",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e0a",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e09",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e08",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9P_Disturbed habitat",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e07",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": null,
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e06",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e05",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e04",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e03",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e02",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e01",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7e00",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dff",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dfe",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dfd",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dfc",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dfb",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dfa",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7df9",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7df8",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7df7",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7df6",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7df5",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7df4",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7df3",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7df2",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7df1",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9P_Fishing",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7df0",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": null,
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7def",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dee",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ded",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dec",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7deb",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dea",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7de9",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7de8",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7de7",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7de6",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7de5",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7de4",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7de3",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7de2",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7de1",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7de0",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ddf",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dde",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ddd",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ddc",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7ddb",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dda",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9P_Flow regime",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dd9",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": null,
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dd8",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dd7",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dd6",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dd5",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dd4",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dd3",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dd2",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dd1",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dd0",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dcf",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dce",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dcd",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dcc",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dcb",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dca",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dc9",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dc8",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dc7",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dc6",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dc5",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dc4",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dc3",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9P_Nutrients",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dc2",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9P_Population",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": null,
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dc1",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9P_Population",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dc0",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9P_Population",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dbf",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9P_Population",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dbe",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9P_Population",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dbd",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9P_Population",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dbc",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9P_Population",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dbb",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9P_Population",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dba",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9P_Population",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7db9",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9P_Population",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7db8",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9P_Population",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7db7",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9P_Population",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7db6",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9P_Population",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7db5",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9P_Population",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7db4",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9P_Population",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7db3",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9P_Population",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7db2",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9P_Population",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7db1",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9P_Population",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7db0",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9P_Population",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7daf",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9P_Population",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dae",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9P_Population",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dad",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9P_Population",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dac",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9P_Population",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7dab",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": null,
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7daa",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7da9",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7da8",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7da7",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7da6",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7da5",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7da4",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7da3",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7da2",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7da1",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7da0",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d9f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d9e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d9d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d9c",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 3,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d9b",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d9a",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d99",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d98",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d97",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d96",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d95",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9P_Sediments",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d94",
+        "geometry": null,
+        "properties": {
+            "feature_id": "STATE-NSW",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "New South Wales",
+            "indicator_name": "New South Wales",
+            "result": 0,
+            "interpretation": null,
+            "trend": null,
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d93",
+        "geometry": null,
+        "properties": {
+            "feature_id": "CMA-HCR",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Hunter-Central Rivers",
+            "indicator_name": "Hunter-Central Rivers",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d92",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.8767",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Manning River",
+            "indicator_name": "Manning River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d91",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-31.9774",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Racecourse Creek (Old Bar)",
+            "indicator_name": "Racecourse Creek (Old Bar)",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d90",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0099",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Khappinghat Creek",
+            "indicator_name": "Khappinghat Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d8f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.0704",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Black Head Lagoon",
+            "indicator_name": "Black Head Lagoon",
+            "result": 0,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": null,
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d8e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.1733",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Wallis Lake",
+            "indicator_name": "Wallis Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d8d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.3954",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Smiths Lake",
+            "indicator_name": "Smiths Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d8c",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.671",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Myall River",
+            "indicator_name": "Myall River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d8b",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.6655",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Karuah River",
+            "indicator_name": "Karuah River",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d8a",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7279",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Tilligerry Creek",
+            "indicator_name": "Tilligerry Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d89",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.7071",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Port Stephens",
+            "indicator_name": "Port Stephens",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d88",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9142",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Hunter River",
+            "indicator_name": "Hunter River",
+            "result": 1,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d87",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-32.9627",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Glenrock Lagoon",
+            "indicator_name": "Glenrock Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d86",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.0854",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Lake Macquarie",
+            "indicator_name": "Lake Macquarie",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d85",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.146",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Middle Camp Creek",
+            "indicator_name": "Middle Camp Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d84",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.1665",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Moonee Beach Creek",
+            "indicator_name": "Moonee Beach Creek",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d83",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.3446",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Tuggerah Lake",
+            "indicator_name": "Tuggerah Lake",
+            "result": 2,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d82",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4299",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Wamberal Lagoon",
+            "indicator_name": "Wamberal Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d81",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4427",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Terrigal Lagoon",
+            "indicator_name": "Terrigal Lagoon",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d80",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4641",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Avoca Lake",
+            "indicator_name": "Avoca Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d7f",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.4938",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Cockrone Lake",
+            "indicator_name": "Cockrone Lake",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d7e",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9P_Water extraction",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 5,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "3",
+            "condition_pressure": "pressure"
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "estuaries.nfm-1391848f_11e3e8ffbd8_-7d7d",
+        "geometry": null,
+        "properties": {
+            "feature_id": "ESTUARY-33.5224",
+            "indicator_id": "9C_Saltmarsh",
+            "feature_name": "Brisbane Water",
+            "indicator_name": "Brisbane Water",
+            "result": 4,
+            "interpretation": null,
+            "trend": "?",
+            "confidence": "1",
+            "condition_pressure": "condition"
+        }
+    }]
+}
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd"> 
+
+<beans>
+  <bean id="hierarchicalJSONOutputFormat" class="com.lisasoft.mer.HierarchicalJSONOutputFormat"/>
+  <bean id="aggregatingJSONOutputFormat" class="com.lisasoft.mer.AggregatingJSONOutputFormat"/>
+  <bean id="sortingJSONOutputFormat" class="com.lisasoft.mer.SortingJSONOutputFormat"/>
+  <bean id="emptyOutputFormat" class="com.lisasoft.mer.testcase.EmptyOutputFormat"/>
+</beans>
