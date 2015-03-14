@@ -1,0 +1,2 @@
+jQuery SwitchBoard plugin is a framework that allows to bind jQuery widgets and plugins.
+jQuery library allows to develop standalone modular plugins but it doesn't provide an interface that allows plugins to connect and interact among each other. SwitchBoard is a light and fast framework that is aimed to tackle this problem by separating model/view and controller logic.
